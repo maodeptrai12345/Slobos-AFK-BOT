@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Maodeptrai12345.aternos.me",
-    "port": 33208,
+    "ip": "Online-Server.aternos.me",
+    "port": 47680,
     "version": "1.21.1"
   },
   "position": {
